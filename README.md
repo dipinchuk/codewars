@@ -1,1 +1,1 @@
-# codewars
+Completed tasks from codewars. 
